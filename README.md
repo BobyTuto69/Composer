@@ -42,7 +42,7 @@ Pour l'installation de Composer :
 ```
 sudo apt-get install composer
 ```
---
+---
 
 ### Windows
 
@@ -50,7 +50,7 @@ Pour Windows, les chanceux ont un .exe qui automatise le tout.
 
 [Ici pour un petit tuto](http://webdevzoom.com/how-to-install-composer-on-windows/).
 
---
+---
 
 ### Mac
 
@@ -65,7 +65,7 @@ Enfin installer Composer avec :
 ```
 brew install composer
 ```
---
+---
 
 #### Petite vérifiction pour tout le monde
 

@@ -8,7 +8,7 @@ Commençons à décrypter çà.
 
 Imaginons que l'on ait besoin de manipuler un fichier .csv/.exel pour l'importer dans une base de données ou vice versa.
 
-Vous avez deux possibilités, vous pouvez créer de A-Z le système de lecture de fichiers, de traitement de données, ect. mais cela prend du temps ou vous pouvez récupérer un paquet déjà codé, il ne restera plus qu'à l'intégrer au projet (utiliser ses fonctions, adapter le code, etc).
+Vous avez deux possibilités, vous pouvez créer de A-Z le système de lecture de fichiers, de traitement de données, ect. mais cela prend du temps ou vous pouvez récupérer un paquet (de fichier) déjà codé, il ne restera plus qu'à l'intégrer au projet (utiliser ses fonctions, adapter le code, etc).
 
 ## Où puis-je trouver ces paquets ?
 
@@ -25,8 +25,6 @@ Une fois installé, chaque gestionnaire dispose d'un [CLI](https://fr.wikipedia.
 Il en existe d'autres comme npm, yarn pour JS.
 
 On peut citer aussi apt-get sur Linux Ubuntu, Homebrew pour mac et Chocolatey pour Windows.
-
-Composer va nous permettre de récupérer des paquets PHP.
 
 ## Let's GO! Comment je l'installe ?
 
